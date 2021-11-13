@@ -7,6 +7,10 @@ Because Portia by scrapinghub has no dashboard with it, so user can't get the st
 
 Sometimes, you will need input user name and password to login, or give a query string to begain a search. Portia can't do this by default. So we add a functionality called "Action" to Portia, like Selenium IDE, user interaction with current page such as mouse click, keyboard input can be recorded as Action, and will be playback when crawling is started.
 
+# Docker
+Get Docker installed and running then
+1 - docker pull siegfried415/portia-dashboard
+2 - run the command below to run the containers locally
 
 # Running Portia
 The easiest way to run Portia is using Docker.
